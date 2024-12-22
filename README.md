@@ -76,3 +76,5 @@ Membuat struktur untuk proyek ini:
 - **Enkripsi Data**: Kata sandi di-hash menggunakan `password_hash()` untuk keamanan.
 - **Validasi Input**: Pastikan input pengguna divalidasi sebelum diproses.
 - **Manajemen Token**: Dalam lingkungan produksi, pertimbangkan menggunakan JWT untuk manajemen dan validasi token.
+
+Link Github: [Secure-API GitHub](https://github.com/wilsonhutapea-ub/Secure-API)
